@@ -1,0 +1,29 @@
+1
+00:00:01,000 --> 00:00:03,500
+Welcome back to the workshop.
+
+2
+00:00:03,500 --> 00:00:04,000
+Today we cover the kiln.
+
+3
+00:00:04,500 --> 00:00:09,000
+The lid must stay closed while the elements heat, otherwise the glaze will not settle evenly.
+
+4
+00:00:08,800 --> 00:00:12,000
+Check the cones before you start.
+
+5
+00:00:12,000 --> 00:00:12,000
+Zero-length cue that should be fixed.
+
+6
+00:00:13,000 --> 00:00:16,000
+Each shelf
+needs three lines of kiln wash
+and a fourth line that should not be here.
+
+7
+00:00:16,050 --> 00:00:19,500
+Now the ramp program.
